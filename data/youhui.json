@@ -1,0 +1,84 @@
+{
+				"list1":[
+					{
+						"img1":"./src/assets/images/bg1.jpg",
+						"img2":"./src/assets/images/logo1.png",
+						"p1":"耐克",
+						"p2":"定金50抵450"
+					},
+					{
+						"img1":"./src/assets/images/bg1.jpg",
+						"img2":"./src/assets/images/logo1.png",
+						"p1":"耐克",
+						"p2":"定金50抵450"
+					},
+					{
+						"img1":"./src/assets/images/bg1.jpg",
+						"img2":"./src/assets/images/logo1.png",
+						"p1":"耐克",
+						"p2":"定金50抵450"
+					},
+					{
+						"img1":"./src/assets/images/bg1.jpg",
+						"img2":"./src/assets/images/logo1.png",
+						"p1":"耐克",
+						"p2":"定金50抵450"
+					},
+					{
+						"img1":"./src/assets/images/bg1.jpg",
+						"img2":"./src/assets/images/logo1.png",
+						"p1":"耐克",
+						"p2":"定金50抵450"
+					},
+					{
+						"img1":"./src/assets/images/bg1.jpg",
+						"img2":"./src/assets/images/logo1.png",
+						"p1":"耐克",
+						"p2":"定金50抵450"
+					}
+				],
+				"list2":[
+					{
+						"img":"./src/assets/images/kind1.jpg",
+						"h2":"Asics Patriot 8",
+						"strong":"到手价248",
+						"sp1":"淘宝网",
+						"sp2":"1小时前"
+					},
+					{
+						"img":"./src/assets/images/kind1.jpg",
+						"h2":"Asics Patriot 8",
+						"strong":"到手价248",
+						"sp1":"淘宝网",
+						"sp2":"1小时前"
+					},
+					{
+						"img":"./src/assets/images/kind1.jpg",
+						"h2":"Asics Patriot 8",
+						"strong":"到手价248",
+						"sp1":"淘宝网",
+						"sp2":"1小时前"
+					},
+					{
+						"img":"./src/assets/images/kind1.jpg",
+						"h2":"Asics Patriot 8",
+						"strong":"到手价248",
+						"sp1":"淘宝网",
+						"sp2":"1小时前"
+					},
+					{
+						"img":"./src/assets/images/kind1.jpg",
+						"h2":"Asics Patriot 8",
+						"strong":"到手价248",
+						"sp1":"淘宝网",
+						"sp2":"1小时前"
+					},
+					{
+						"img":"./src/assets/images/kind1.jpg",
+						"h2":"Asics Patriot 8",
+						"strong":"到手价248",
+						"sp1":"淘宝网",
+						"sp2":"1小时前"
+					}
+				]
+}

@@ -1,0 +1,416 @@
+{
+				"list1":[
+					{
+						"h2":"篮球",
+						"p":"纯白秒杀系列",
+						"img":"./src/assets/images/pic1.jpg"
+					},
+					{
+						"h2":"跑步",
+						"p":"女王节秒杀",
+						"img":"./src/assets/images/pic2.jpg"
+					},
+					{
+						"h2":"健身",
+						"p":"步瑞特装备秒杀",
+						"img":"./src/assets/images/pic3.png"
+					},
+					{
+						"h2":"足球",
+						"p":"其实是在吹总裁",
+						"img":"./src/assets/images/pic4.jpg"
+					},
+					{
+						"h2":"潮流",
+						"p":"78元短袖秒杀",
+						"img":"./src/assets/images/pic5.png"
+					},
+					{
+						"h2":"数码",
+						"p":"GAMING",
+						"img":"./src/assets/images/pic6.jpg"
+					}
+				],
+				"list2":[
+					{
+						"h2":"今日特惠",
+						"p":"EQT5折好价",
+						"img":"./src/assets/images/pic7.jpg"
+					},
+					{
+						"h2":"限时团购",
+						"p":"春节不打烊",
+						"img":"./src/assets/images/pic8.png"
+					},
+					{
+						"h2":"一键海淘",
+						"p":"卡西欧黑金249元",
+						"img":"./src/assets/images/pic9.jpg"
+					}
+				],
+				"list3":[
+					{
+						"img":"./src/assets/images/pic10.jpg",
+						"p":"skullcandy骷髅头耳机",
+						"span":"券后低至89元起"
+					},
+					{
+						"img":"./src/assets/images/pic11.jpg",
+						"p":"数码测评",
+						"span":"全面解析热门数码产品"
+					},
+					{
+						"img":"./src/assets/images/pic12.jpg",
+						"p":"考虑一下荧光绿",
+						"span":"要想生活过的去"
+					},
+					{
+						"img":"./src/assets/images/pic13.jpg",
+						"p":"#什么跑鞋值得买#",
+						"span":"晒晒你最爱的跑鞋"
+					},
+					{
+						"img":"./src/assets/images/pic14.jpg",
+						"p":"热门资讯",
+						"span":"最新最热门的数码资讯"
+					},
+					{
+						"img":"./src/assets/images/pic15.jpg",
+						"p":"新入球鞋穿搭推荐",
+						"span":"sneakerhead必看"
+					}
+				],
+				"list4":[
+					{
+						"img":"./src/assets/images/news1.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news1.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news1.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news1.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news1.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					}
+				],
+				"list5":[
+					{
+						"img":"./src/assets/images/news2.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news2.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news2.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news2.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news2.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					}
+				],
+				"list6":[
+					{
+						"img":"./src/assets/images/news3.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news3.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news3.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news3.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news3.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					}
+				],
+				"list7":[
+					{
+						"img":"./src/assets/images/news4.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news4.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news4.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news4.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news4.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					}
+				],
+				"list8":[
+					{
+						"img":"./src/assets/images/news5.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news5.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news5.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news5.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news5.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					}
+				],
+				"list9":[
+					{
+						"img":"./src/assets/images/news6.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news6.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news6.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news6.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news6.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					}
+				],
+				"list10":[
+					{
+						"img":"./src/assets/images/news7.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news7.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news7.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news7.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news7.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					}
+				],
+				"list11":[
+					{
+						"img":"./src/assets/images/news8.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news8.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news8.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news8.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news8.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					}
+				],
+				"list12":[
+					{
+						"img":"./src/assets/images/news9.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news9.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news9.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news9.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					},
+					{
+						"img":"./src/assets/images/news9.jpg",
+						"h2":"FLOAT 拉链套头夹克 430170087",
+						"p":"摇粒绒面料，胸前字母印花",
+						"span":"天猫",
+						"strong":"231"
+					}
+				]
+}
